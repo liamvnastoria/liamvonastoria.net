@@ -141,3 +141,6 @@ package-lock.json
 yarn.lock
 pnpm-lock.yaml
 .pnpm-lock.yaml
+
+# Continue AI Folder
+.continue
